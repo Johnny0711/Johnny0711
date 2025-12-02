@@ -5,15 +5,11 @@ Enthusiastic Software Engineering student who loves building clean systems, expl
 #### 🎓 Software Engineering B.Sc – Student @ University of Stuttgart  
 #### 📌 Baden-Württemberg, Germany  
 
----
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johnny.stgt)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jschmidt-steinenbronn/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quartet_ketone6g@icloud.com)
-
+<br><br>
 
 ---
-
 
 ## 🔤 Languages
 [![Languages](https://skillicons.dev/icons?i=java,js,html,css,c,cpp,cs,py,latex,lua)](https://skillicons.dev)
